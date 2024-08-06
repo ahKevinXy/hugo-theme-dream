@@ -26,32 +26,29 @@ hide value
 
 ## tab group code
 
-{{< tabgroup >}}
 {{< tab name="Hello" >}}
 ```shell
 Hello World!
 ```
-{{< /tab >}}
+
 
 {{< tab name="Goodbye" >}}
 ```shell
 Goodbye Everybody!
 ```
-{{< /tab >}}
-{{< /tabgroup >}}
+
+
 
 ## tab group
 
-{{< tabgroup >}}
 {{< tab name="MacOS" >}}
 brew install hugo
-{{< /tab >}}
+
 
 {{< tab name="Linux" >}}
 apt install hugo
-{{< /tab >}}
+
 
 {{< tab name="Window" >}}
 window install hugo
-{{< /tab >}}
-{{< /tabgroup >}}
+

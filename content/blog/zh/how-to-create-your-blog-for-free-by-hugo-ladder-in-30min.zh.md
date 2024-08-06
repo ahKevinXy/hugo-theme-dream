@@ -32,7 +32,6 @@ featured: true
 
 安装 `Hugo` 可以按照官方的文档一步一步安装 [hugo install](https://gohugo.io/getting-started/installing)。也可以按照下面命令快速安装。
 
-{{< tabgroup >}}
 
 {{< tab name="MacOS / Linux" >}}
 
@@ -41,7 +40,7 @@ brew install hugo
 ```
 
 
-{{< /tab >}}
+
 
 {{< tab name="Window" >}}
 
@@ -49,9 +48,9 @@ brew install hugo
 choco install hugo -confirm
 ```
 
-{{< /tab >}}
 
-{{< /tabgroup >}}
+
+
 
 可以通过 `hugo version` 来确保安装成功。
 

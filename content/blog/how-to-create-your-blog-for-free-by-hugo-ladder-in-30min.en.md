@@ -34,7 +34,6 @@ After comparing these technologies, I finally choose Hugo. [Hugo](https://gohugo
 
 To install `Hugo` you can follow the documentation step by step [hugo install](https://gohugo.io/getting-started/installing). You can also follow the command below to install it quickly.
 
-{{< tabgroup >}}
 
 {{< tab name="MacOS / Linux" >}}
 
@@ -43,7 +42,7 @@ brew install hugo
 ```
 
 
-{{< /tab >}}
+
 
 {{< tab name="Window" >}}
 
@@ -51,9 +50,9 @@ brew install hugo
 choco install hugo -confirm
 ```
 
-{{< /tab >}}
 
-{{< /tabgroup >}}
+
+
 
 You can ensure the installation is successful by using `hugo version`.
 
