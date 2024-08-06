@@ -1,10 +1,10 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://goofish-shop.github.io/hugo-theme-dream/'
 title: hugo-theme-dream
 theme: hugo-theme-dream
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://hugo-ladder.pages.dev'
+homepage: 'https://goofish-shop.github.io/hugo-theme-dream/'
 defaultContentLanguage: 'zh'
 googleAnalytics: G-7E4JNTL3ES
 enableRobotsTXT: true
